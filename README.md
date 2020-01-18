@@ -12,6 +12,8 @@ Published in:- Computers & Graphics, Special issue of Shape Modeling Internation
 
 Operating system recommended:- Ubuntu 14.04 or newer/ macOS Sierra or higher
 
+Input:- A binary rough sketch/ multi-stroke sketch, Output:- An SVG file representing the cleaned sketch (as shown in the image).
+
 This program is a research prototype, and may contain bugs and flaws.
 
 ######### Contains: #########
