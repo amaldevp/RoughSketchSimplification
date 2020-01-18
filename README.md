@@ -32,6 +32,8 @@ The code is purely for academic and non-commercial usage. Please make sure you c
 
 This program is a research prototype and may contain bugs and flaws. Also, please note that it can be written in more optimized way.
 
+Special thanks to Enrique Rosales (copyrighted) for providing the sketches.
+
 ##################### For further enquires: #####################
 
 Contact: Amal Dev Parakkat (amaldevparakkat.weebly.com)
