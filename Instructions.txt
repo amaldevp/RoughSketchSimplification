@@ -1,0 +1,17 @@
+How to run: 
+
+The code requires OpenCV and CGAL. 
+Do "cmake .", "make" and then run using "Multi filename". 
+After tuning the parameters, right-click on that window itself to go to next window. 
+Finally, if you right-click on the "Smooth" window, SVG will be created and saved as an html file with the same name as the input file.
+Also check the Youtube video to see a demo.
+
+Use of parameters:
+
+1. Growing Parameter:- Merges adjacent strokes
+2. Masking Regions:- If some unwanted small parts appears in between strokes, this will help us to mask them. It gives the number of closed regions after filling procedure, initially 0 means there are no closed regions, you have to change it appropriately to get result.
+3. Skeleton Pruning:- To remove unnecessary branches from the skeleton.
+4. Smooth:- How smooth the result should be. High value means less smooth.
+
+Make sure you adjust the bar atleast once before you RIGHT-CLICK on the window.
+

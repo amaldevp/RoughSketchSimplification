@@ -1,0 +1,11 @@
+This is a new reimplementation of the code. It has few assumptions and minor changes from the original version (of the one submitted to the journal).
+
+1. I didn't include the sharp corner restoration part (though it is mentioned in the paper and was in our initial prototype) since it is not that strong and efficient.
+
+2. I used constant background intensity ( a pixel is considered as a point only if its intensity is lesser than 200 - since we had made an assumption that the input is binary - that can be directly changed in the program if you feel required).
+
+3. Also, I resized the image height/width to 700 (since I have a small screen in my new place), you can alter it to generate better results as well (since resizing affects point location).
+
+4. Tha algorithm terribly fails if there is some shading information in the image.
+
+5. The code might have some bugs as well ;-)
