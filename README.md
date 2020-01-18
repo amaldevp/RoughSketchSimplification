@@ -1,6 +1,6 @@
 # RoughSketchSimplification
 
-
+![Alt text](sample.png?raw=true "Title")
 
 ################## Implementation of: ##################
 
@@ -17,6 +17,8 @@ This program is a research prototype, and may contain bugs and flaws.
 ######### Contains: #########
 
 Please follow the instructions given in corresponding "Information.txt" for executing the program.
+
+Please go through "Assumptions.txt" before using the program to avoid unnecessary errors.
 
 The program requires CGAL (tested with 4.7) and OpenCV.
 
